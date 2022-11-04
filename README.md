@@ -4,7 +4,8 @@ This repo holds the Part 1 Analysis of the Project in Data 512 Class
 ### Project Objective: 
 During this Course Project, we are going to begin taking a look at some of the social aspects of the pandemic by conducting a human centered data science analysis of some available COVID-19 data. In Part 1- Common Analysis, we will analyze data for Multnomah County, Oregon of the United States.
 
-### Research Question: How did masking policies change the progression of confirmed COVID-19 cases from February 1, 2020 through October 1, 2021?
+### Research Question: 
+How did masking policies change the progression of confirmed COVID-19 cases from February 1, 2020 through October 1, 2021?
 
 ### Data:
 
